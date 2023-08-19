@@ -4,5 +4,3 @@ AWS_SESSION_TOKEN=AQoDYXdzEPT//////////wEXAMPLEtc764bNrC9SAPBSM22wDOk4x4HIZ8j4FZ
 github_key: c8a2f31d8daeb219f623f484f1d0fa73ae6b4b5a
 github_api_key: c8a2f31d8daeb219f623f484f1d0fa73ae6b4b5a
 github_secret: c8a2f31d8daeb219f623f484f1d0fa73ae6b4b5a
-github_api_secret: c8a2f31d8daeb219f623f484f1d0fa73ae6b4b5a
-OpenWeatherMapKey: c8a2f31d8daeb219f623f484f1d0fa73ae6b4b5a

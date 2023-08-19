@@ -11,8 +11,5 @@ Mastercard
 Exp: 01/27
 Security code: 912
 
-Credit Card
-6011000990139424
-Exp: 01/27
-Security code: 123
+
 
