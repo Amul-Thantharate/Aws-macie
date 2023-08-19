@@ -13,7 +13,3 @@ BU-60-UB
 000ZZZ
 987-YXW
 
-# South Australia
-123-ABC
-000-ZZZ
-987-YXW
